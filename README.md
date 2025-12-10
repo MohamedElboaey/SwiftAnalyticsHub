@@ -1,6 +1,6 @@
 # SwiftAnalyticsHub 📊
 
-A modern, type-safe, and thread-safe analytics aggregation library for iOS/macOS. Route analytics events to multiple providers (Firebase, Adjust, Mixpanel, etc.) through a single, unified API.
+A modern, type-safe, and thread-safe analytics aggregation library for iOS. Route analytics events to multiple providers (Firebase, Adjust, Tealuim, etc.) through a single, unified API.
 
 ## ✨ Features
 
@@ -879,7 +879,7 @@ Contributions are welcome! Please:
 
 ## 📮 Support
 
-- 📧 Email: your.email@example.com
+- 📧 Email: Mohamedelboraey35@gmail.com
 - 🐛 Issues: GitHub Issues
 - 📖 Documentation: GitHub Wiki
 
